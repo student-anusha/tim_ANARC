@@ -1,4 +1,6 @@
 🎙️ ANARC – Your Personal Voice Assistant
+
+
 📌 Overview
 ANARC is a browser-based voice assistant built with JavaScript, HTML, and CSS that can greet you, answer questions, open apps/websites, and fetch information from the web — all through simple voice commands.
 
