@@ -11,7 +11,7 @@ Smart Greetings → Greets you based on the time of day.
 
 Voice Commands → Perform actions like:
 
-Open Google, Instagram, Wikipedia
+Open Google, Instagram, Wikipedia All the basic desktop applications.
 
 Tell the current time/date
 
